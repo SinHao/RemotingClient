@@ -1,0 +1,10 @@
+D:\VisualStudioProject\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\VisualStudioProject\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+D:\VisualStudioProject\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\VisualStudioProject\RemotingClient\RemotingClient\bin\Debug\RemotingInterface.dll
+D:\VisualStudioProject\RemotingClient\RemotingClient\bin\Debug\RemotingInterface.pdb
+D:\VisualStudioProject\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojAssemblyReference.cache
+D:\VisualStudioProject\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+D:\VisualStudioProject\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+D:\VisualStudioProject\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
